@@ -22,10 +22,12 @@ dato2 = 12
 suma= dato1 + dato2 
 print("el resultado de la esuma es=",suma)
 resta = dato1 - dato2 
-print(resta)
+print("el resultado de la resta es ",resta)
 multiplicacion = dato1 * dato2 
-print (multiplicacion)
+print ("el resultado de la multiplicacion es ",multiplicacion)
 divicion = dato1/dato2
-print (divicion)
+print ("el resultado de divicion es ",divicion)
 potencia = dato1 ** dato2
-print(potencia)
+print("el resultado de la potencia  es ",potencia)
+cuadrado = dato1 ** 2
+print ("el resultado de elevar al cuadrado es ",cuadrado)
