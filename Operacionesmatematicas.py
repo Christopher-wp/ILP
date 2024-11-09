@@ -25,3 +25,7 @@ resta = dato1 - dato2
 print(resta)
 multiplicacion = dato1 * dato2 
 print (multiplicacion)
+divicion = dato1/dato2
+print (divicion)
+potencia = dato1 ** dato2
+print(potencia)
