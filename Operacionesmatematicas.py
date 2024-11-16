@@ -41,4 +41,4 @@ raiz_cubica = pow(27,1/3)
 modulo_residuo_1 = 10 % 2
 modulo_residuo_2 = dato1 % dato2
 print('modulo 1 residuo es =',modulo_residuo_1)
-print("modulo 2 residuo es", modulo_residuo_2)
+print("modulo 2 residuo es=", modulo_residuo_2)
