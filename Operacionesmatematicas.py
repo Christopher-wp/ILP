@@ -16,7 +16,7 @@ GRAVEDAD = 9.81
 
 ##### se le llama importar librerias o bliblotecas que contienen funciones
 import math
-
+#### asi se importan librerias 
 dato1 = float(input("ingrese un dato:"))
 dato2 = float(input("ingrese un dato:"))
 
